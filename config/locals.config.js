@@ -1,3 +1,3 @@
 module.exports = app => {
-    app.locals.siteTitle = 'Express generator v2'
+    app.locals.siteTitle = 'The best app ever of Ironhack!'
 }
